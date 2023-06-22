@@ -7,7 +7,7 @@ description: "This reference article covers Internal Groups, a great way to get 
 
 ---
 
-# Internal Groups
+# Internal Groups 
 
 > Internal Groups are a great way to build and organize internal or third-party test groups. They provide insight into your SDK or API logs, and are useful when testing your SDK integration. You can create an unlimited number of custom Internal Groups with up to 1,000 members.
 
